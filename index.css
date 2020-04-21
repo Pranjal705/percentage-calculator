@@ -1,0 +1,28 @@
+.head h1 {
+    text-align: center;
+}
+
+.calculator {
+    text-align: center;
+}
+.form {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.inputFields input {
+    background-color: aqua;
+}
+.inputFields input:hover{
+    background-color: azure;
+}
+.hover input {
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 10px;
+}
+ .hover :hover{
+    background-color:blueviolet;
+     color: aliceblue;
+}
